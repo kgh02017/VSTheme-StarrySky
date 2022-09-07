@@ -2114,7 +2114,7 @@
         <Background Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="Highlight">
-        <Background Type="CT_RAW" Source="FF14102C" />
+        <Background Type="CT_RAW" Source="FF11D431" />
       </Color>
       <Color Name="HighlightText">
         <Background Type="CT_RAW" Source="FF1AFE49" />
@@ -7557,7 +7557,7 @@
         <Background Type="CT_RAW" Source="FF007F00" />
       </Color>
       <Color Name="ActionLinkItem">
-        <Foreground Type="CT_RAW" Source="FF14102C" />
+        <Foreground Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="CodeReviewDiscussionItemSelected">
         <Background Type="CT_RAW" Source="FF14102C" />
@@ -7598,7 +7598,7 @@
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="ActionLinkItemSelected">
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Foreground Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="ActionLinkItemSelectedNotFocused">
         <Foreground Type="CT_RAW" Source="FF1AFE49" />
@@ -8123,7 +8123,7 @@
         <Background Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="SelectedItemInactive">
-        <Background Type="CT_RAW" Source="FF14102C" />
+        <Background Type="CT_RAW" Source="FF372963" />
         <Foreground Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="SelectedItemInactiveGlyph">
