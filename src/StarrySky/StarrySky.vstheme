@@ -2117,7 +2117,7 @@
         <Background Type="CT_RAW" Source="FF11D431" />
       </Color>
       <Color Name="HighlightText">
-        <Background Type="CT_RAW" Source="FF1AFE49" />
+        <Background Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="ButtonFace">
         <Background Type="CT_RAW" Source="FF14102C" />
