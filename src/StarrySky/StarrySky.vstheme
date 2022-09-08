@@ -7578,16 +7578,16 @@
         <Background Type="CT_RAW" Source="FF14102C" />
       </Color>
       <Color Name="TETileIconBackgroundMouseOver">
-        <Background Type="CT_RAW" Source="FF14102C" />
+        <Background Type="CT_RAW" Source="FF01DF2F" />
       </Color>
       <Color Name="TETileIconBackgroundSelected">
-        <Background Type="CT_RAW" Source="FF14102C" />
+        <Background Type="CT_RAW" Source="FF01DF2F" />
       </Color>
       <Color Name="TETileListBackgroundMouseOver">
-        <Background Type="CT_RAW" Source="FF14102C" />
+        <Background Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="TETileListBackgroundSelected">
-        <Background Type="CT_RAW" Source="FF14102C" />
+        <Background Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="ButtonDisabled">
         <Background Type="CT_RAW" Source="FF3A3D41" />
@@ -7670,19 +7670,19 @@
         <Background Type="CT_RAW" Source="FFAE3CBA" />
       </Color>
       <Color Name="TETileIconBackground">
-        <Background Type="CT_RAW" Source="FF3D3D3D" />
+        <Background Type="CT_RAW" Source="FF4732B5" />
       </Color>
       <Color Name="TETileListBackground">
-        <Background Type="CT_RAW" Source="FF2D2D2D" />
+        <Background Type="CT_RAW" Source="FF392891" />
       </Color>
       <Color Name="TETileListForeground">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF11D431" />
       </Color>
       <Color Name="TETileListForegroundMouseOver">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="TETileListForegroundSelected">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="VSLogoIconFill">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
