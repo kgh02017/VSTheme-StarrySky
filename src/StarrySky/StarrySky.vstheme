@@ -8123,7 +8123,7 @@
         <Background Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="SelectedItemInactive">
-        <Background Type="CT_RAW" Source="FF372963" />
+        <Background Type="CT_RAW" Source="FF2C214F" />
         <Foreground Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="SelectedItemInactiveGlyph">
@@ -8137,7 +8137,7 @@
         <Foreground Type="CT_RAW" Source="FFF6F1FF" />
       </Color>
       <Color Name="Glyph">
-        <Background Type="CT_RAW" Source="FFF6F1FF" />
+        <Background Type="CT_RAW" Source="FF11D431" />
       </Color>
       <Color Name="FocusVisualBorder">
         <Background Type="CT_RAW" Source="FF11D431" />
