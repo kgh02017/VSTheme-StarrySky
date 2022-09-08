@@ -2345,8 +2345,8 @@
         <Foreground Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="StatusBarDebugging">
-        <Background Type="CT_RAW" Source="FF04052E" />
-        <Foreground Type="CT_RAW" Source="FFC566FC" />
+        <Background Type="CT_RAW" Source="FF06320E" />
+        <Foreground Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="StatusBarText">
         <Background Type="CT_RAW" Source="FF1AFE49" />
