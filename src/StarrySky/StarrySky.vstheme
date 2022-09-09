@@ -6994,7 +6994,7 @@
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="StartPageListItem">
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Foreground Type="CT_RAW" Source="FF11D431" />
       </Color>
       <Color Name="StartPageListItemGlyph">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -7004,7 +7004,7 @@
         <Foreground Type="CT_RAW" Source="FF252526" />
       </Color>
       <Color Name="StartPageSupportText">
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Foreground Type="CT_RAW" Source="FF2AB6B3" />
       </Color>
       <Color Name="StartPageSupportTextHover">
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
@@ -7961,7 +7961,7 @@
       </Color>
       <Color Name="WindowPanel">
         <Background Type="CT_RAW" Source="FF2C214F" />
-        <Foreground Type="CT_RAW" Source="FFF6F1FF" />
+        <Foreground Type="CT_RAW" Source="FF11D431" />
       </Color>
       <Color Name="ActionButtonBackground">
         <Background Type="CT_RAW" Source="FF2C214F" />
@@ -7976,13 +7976,13 @@
         <Background Type="CT_RAW" Source="FFF6F1FF" />
       </Color>
       <Color Name="HeaderText">
-        <Background Type="CT_RAW" Source="FFF6F1FF" />
+        <Background Type="CT_RAW" Source="FF11D431" />
       </Color>
       <Color Name="ActionButtonText">
-        <Background Type="CT_RAW" Source="FFF6F1FF" />
+        <Background Type="CT_RAW" Source="FF11D431" />
       </Color>
       <Color Name="StartWindowDescription">
-        <Foreground Type="CT_RAW" Source="FFF6F1FF" />
+        <Foreground Type="CT_RAW" Source="FF2AB6B3" />
       </Color>
       <Color Name="PromotionBoxText">
         <Background Type="CT_RAW" Source="FFF6F1FF" />
