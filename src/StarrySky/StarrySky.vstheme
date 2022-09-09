@@ -2358,19 +2358,19 @@
         <Background Type="CT_RAW" Source="FF2C214F" />
       </Color>
       <Color Name="FileTabSelectedBackground">
-        <Background Type="CT_RAW" Source="FF2C214F" />
+        <Background Type="CT_RAW" Source="FF392891" />
       </Color>
       <Color Name="FileTabSelectedGradientBottom">
-        <Background Type="CT_RAW" Source="FF2C214F" />
+        <Background Type="CT_RAW" Source="FF392891" />
       </Color>
       <Color Name="FileTabSelectedGradientMiddle1">
-        <Background Type="CT_RAW" Source="FF2C214F" />
+        <Background Type="CT_RAW" Source="FF392891" />
       </Color>
       <Color Name="FileTabSelectedGradientMiddle2">
-        <Background Type="CT_RAW" Source="FF2C214F" />
+        <Background Type="CT_RAW" Source="FF392891" />
       </Color>
       <Color Name="FileTabSelectedGradientTop">
-        <Background Type="CT_RAW" Source="FF2C214F" />
+        <Background Type="CT_RAW" Source="FF392891" />
       </Color>
       <Color Name="FileTabIndicatorTextSelectedActive">
         <Background Type="CT_RAW" Source="FF1AFE49" />
@@ -3405,7 +3405,7 @@
         <Background Type="CT_RAW" Source="FF45425C" />
       </Color>
       <Color Name="FileTabSelectedBorder">
-        <Background Type="CT_RAW" Source="FF11D431" />
+        <Background Type="CT_RAW" Source="FF392891" />
       </Color>
       <Color Name="FileTabOverflowTextInactive">
         <Background Type="CT_RAW" Source="FFC0C0C0" />
