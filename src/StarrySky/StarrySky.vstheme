@@ -7896,7 +7896,7 @@
     </Category>
     <Category Name="ThemedDialog" GUID="{5e04b2a9-e443-48db-8791-63a2a71cfbd7}">
       <Color Name="WindowButton">
-        <Background Type="CT_RAW" Source="FF10823D" />
+        <Background Type="CT_RAW" Source="FF2C214F" />
       </Color>
       <Color Name="WindowButtonDown">
         <Background Type="CT_RAW" Source="FF10823D" />
@@ -7909,7 +7909,7 @@
         <Foreground Type="CT_RAW" Source="FF00140B" />
       </Color>
       <Color Name="WindowButtonGlyph">
-        <Background Type="CT_RAW" Source="FF00140B" />
+        <Background Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="WindowButtonHoverGlyph">
         <Background Type="CT_RAW" Source="FF00140B" />
