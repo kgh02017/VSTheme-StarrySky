@@ -6564,18 +6564,6 @@
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF1AFE49" />
       </Color>
-      <Color Name="GitDiffMarginAddition">
-        <Background Type="CT_RAW" Source="FFC0FFD0" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
-      </Color>
-      <Color Name="GitDiffMarginModification">
-        <Background Type="CT_RAW" Source="FFB0FFC3" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
-      </Color>
-      <Color Name="GitDiffMarginRemoved">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
-      </Color>
       <Color Name="TrailingWhitespace">
         <Background Type="CT_RAW" Source="FF5D0000" />
         <Foreground Type="CT_RAW" Source="FF1AFE49" />
