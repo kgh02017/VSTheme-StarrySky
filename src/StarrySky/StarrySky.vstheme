@@ -6808,16 +6808,16 @@
         <Background Type="CT_RAW" Source="FFF6F1FF" />
       </Color>
       <Color Name="PopupCheckboxCheckmark">
-        <Background Type="CT_RAW" Source="FFF6F1FF" />
+        <Background Type="CT_RAW" Source="FF11D431" />
       </Color>
       <Color Name="PopupCheckboxMouseDownText">
-        <Background Type="CT_RAW" Source="FFF6F1FF" />
+        <Background Type="CT_RAW" Source="FF11D431" />
       </Color>
       <Color Name="PopupCheckboxMouseOverText">
-        <Background Type="CT_RAW" Source="FFF6F1FF" />
+        <Background Type="CT_RAW" Source="FF11D431" />
       </Color>
       <Color Name="PopupCheckboxText">
-        <Background Type="CT_RAW" Source="FFF6F1FF" />
+        <Background Type="CT_RAW" Source="FF11D431" />
       </Color>
       <Color Name="PopupItemText">
         <Background Type="CT_RAW" Source="FF11D431" />
