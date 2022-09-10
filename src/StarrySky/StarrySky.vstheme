@@ -5014,7 +5014,7 @@
         <Background Type="CT_RAW" Source="FF45425C" />
       </Color>
       <Color Name="NotificationBubbleBorder">
-        <Background Type="CT_RAW" Source="FF92CAF4" />
+        <Background Type="CT_RAW" Source="FF10823D" />
       </Color>
       <Color Name="NotificationBubbleWindowButtonBorder">
         <Background Type="CT_RAW" Source="00000000" />
