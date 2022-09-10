@@ -5769,15 +5769,15 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Track additions in documents under source control">
-        <Background Type="CT_RAW" Source="FF55B155" />
+        <Background Type="CT_RAW" Source="FF3BFF95" />
         <Foreground Type="CT_AUTOMATIC" Source="FF1E1E1E" />
       </Color>
       <Color Name="Track modifications in documents under source control">
-        <Background Type="CT_RAW" Source="FF3595DE" />
+        <Background Type="CT_RAW" Source="FFFF8C00" />
         <Foreground Type="CT_AUTOMATIC" Source="FF1E1E1E" />
       </Color>
       <Color Name="Track deletions in documents under source control">
-        <Background Type="CT_RAW" Source="FFFF6666" />
+        <Background Type="CT_RAW" Source="FFFF5DCC" />
         <Foreground Type="CT_AUTOMATIC" Source="FF1E1E1E" />
       </Color>
       <Color Name="mergeEditor.AcceptedLine">
