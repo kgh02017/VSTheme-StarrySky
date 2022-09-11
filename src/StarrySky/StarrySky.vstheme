@@ -4925,7 +4925,7 @@
         <Foreground Type="CT_RAW" Source="FF11D431" />
       </Color>
       <Color Name="HyperlinkHover">
-        <Background Type="CT_RAW" Source="FF3D5AFE" />
+        <Background Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="Hyperlink">
         <Background Type="CT_RAW" Source="FF1AFE49" />
