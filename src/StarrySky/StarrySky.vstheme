@@ -7601,7 +7601,7 @@
       </Color>
       <Color Name="Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFD1FFDE" />
+        <Foreground Type="CT_RAW" Source="FFB6A4A6" />
       </Color>
       <Color Name="Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -7649,27 +7649,27 @@
       </Color>
       <Color Name="SQL Stored Procedure">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB3725B" />
+        <Foreground Type="CT_RAW" Source="FFD2AC03" />
       </Color>
       <Color Name="SQL System Table">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB9E873" />
+        <Foreground Type="CT_RAW" Source="FFFE9D2F" />
       </Color>
       <Color Name="SQL System Function">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC975D5" />
+        <Foreground Type="CT_RAW" Source="FF3BFF95" />
       </Color>
       <Color Name="SQL Operator">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF818181" />
+        <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="SQL String">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFCB4141" />
+        <Foreground Type="CT_RAW" Source="FF3799EA" />
       </Color>
       <Color Name="SQLCMD Command">
         <Background Type="CT_RAW" Source="FF484848" />
-        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
+        <Foreground Type="CT_RAW" Source="FFFEFEA3" />
       </Color>
       <Color Name="Error">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
