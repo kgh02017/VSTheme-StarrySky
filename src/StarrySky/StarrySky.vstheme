@@ -2243,7 +2243,7 @@
         <Background Type="CT_RAW" Source="FF333337" />
       </Color>
       <Color Name="ToolTip">
-        <Background Type="CT_RAW" Source="8006320E" />
+        <Background Type="CT_RAW" Source="A006320E" />
         <Foreground Type="CT_RAW" Source="FF09A918" />
       </Color>
       <Color Name="ToolTipHintText">
@@ -2692,13 +2692,13 @@
         <Background Type="CT_RAW" Source="80C5C5C5" />
       </Color>
       <Color Name="CommandBarMenuBackgroundGradientBegin">
-        <Background Type="CT_RAW" Source="8006320E" />
+        <Background Type="CT_RAW" Source="A006320E" />
       </Color>
       <Color Name="CommandBarMenuBackgroundGradientEnd">
-        <Background Type="CT_RAW" Source="8006320E" />
+        <Background Type="CT_RAW" Source="A006320E" />
       </Color>
       <Color Name="CommandBarMenuIconBackground">
-        <Background Type="CT_RAW" Source="8006320E" />
+        <Background Type="CT_RAW" Source="A006320E" />
       </Color>
       <Color Name="CommandBarMenuScrollGlyph">
         <Background Type="CT_RAW" Source="FF1AFE49" />
@@ -3237,10 +3237,10 @@
         <Background Type="CT_RAW" Source="FF656565" />
       </Color>
       <Color Name="DropDownPopupBackgroundBegin">
-        <Background Type="CT_RAW" Source="8006320E" />
+        <Background Type="CT_RAW" Source="A006320E" />
       </Color>
       <Color Name="DropDownPopupBackgroundEnd">
-        <Background Type="CT_RAW" Source="8006320E" />
+        <Background Type="CT_RAW" Source="A006320E" />
       </Color>
       <Color Name="DropDownPopupBorder">
         <Background Type="CT_RAW" Source="FF333337" />
@@ -4842,7 +4842,7 @@
         <Foreground Type="CT_RAW" Source="FF11D431" />
       </Color>
       <Color Name="ResultList">
-        <Background Type="CT_RAW" Source="8006320E" />
+        <Background Type="CT_RAW" Source="A006320E" />
         <Foreground Type="CT_RAW" Source="FF11D431" />
       </Color>
       <Color Name="ResultListAccentBorder">
@@ -6811,10 +6811,10 @@
         <Background Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="PopupItemsListBackgroundGradientBegin">
-        <Background Type="CT_RAW" Source="8006320E" />
+        <Background Type="CT_RAW" Source="A006320E" />
       </Color>
       <Color Name="PopupItemsListBackgroundGradientEnd">
-        <Background Type="CT_RAW" Source="8006320E" />
+        <Background Type="CT_RAW" Source="A006320E" />
       </Color>
       <Color Name="PopupSectionHeaderText">
         <Background Type="CT_RAW" Source="FF999999" />
@@ -8475,7 +8475,7 @@
         <Background Type="CT_RAW" Source="FF14102C" />
       </Color>
       <Color Name="WindowPanel">
-        <Background Type="CT_RAW" Source="D006320E" />
+        <Background Type="CT_RAW" Source="A006320E" />
       </Color>
       <Color Name="WindowPanelText">
         <Foreground Type="CT_RAW" Source="FF1AFE49" />
@@ -9173,7 +9173,7 @@
         <Background Type="CT_RAW" Source="FF56DBFF" />
       </Color>
       <Color Name="ErrorListPopup">
-        <Background Type="CT_RAW" Source="8006320E" />
+        <Background Type="CT_RAW" Source="A006320E" />
         <Foreground Type="CT_RAW" Source="FF11D431" />
       </Color>
       <Color Name="ErrorListPopupBorder">
@@ -9202,7 +9202,7 @@
         <Foreground Type="CT_RAW" Source="FF11D431" />
       </Color>
       <Color Name="ErrorListHeader">
-        <Background Type="CT_RAW" Source="8006320E" />
+        <Background Type="CT_RAW" Source="A006320E" />
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
     </Category>
