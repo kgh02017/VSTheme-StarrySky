@@ -8475,7 +8475,7 @@
         <Background Type="CT_RAW" Source="FF14102C" />
       </Color>
       <Color Name="WindowPanel">
-        <Background Type="CT_RAW" Source="A006320E" />
+        <Background Type="CT_RAW" Source="E006320E" />
       </Color>
       <Color Name="WindowPanelText">
         <Foreground Type="CT_RAW" Source="FF1AFE49" />
