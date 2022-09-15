@@ -1311,13 +1311,13 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="InnerTabTextFocused">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="InnerTabTextHover">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="InnerTabTextPressed">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="ListItemBackgroundPressed">
         <Background Type="CT_RAW" Source="FF14102C" />
@@ -1395,10 +1395,10 @@
         <Background Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="InnerTabActiveIndicator">
-        <Background Type="CT_RAW" Source="FF14102C" />
+        <Background Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="InnerTabSelectedIndicator">
-        <Background Type="CT_RAW" Source="FF14102C" />
+        <Background Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="Page">
         <Background Type="CT_RAW" Source="FF2C214F" />
@@ -2892,7 +2892,7 @@
         <Background Type="CT_RAW" Source="FF252526" />
       </Color>
       <Color Name="BrandedUIText">
-        <Background Type="CT_RAW" Source="FFF1F1F1" />
+        <Background Type="CT_RAW" Source="FF11D431" />
       </Color>
       <Color Name="BrandedUITitle">
         <Background Type="CT_RAW" Source="FFF1F1F1" />
