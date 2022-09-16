@@ -118,8 +118,8 @@
         <Background Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="ListItemMouseOver">
-        <Background Type="CT_RAW" Source="FF14102C" />
-        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
+        <Background Type="CT_RAW" Source="FF2C214F" />
+        <Foreground Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="ListItemMouseOverBorder">
         <Background Type="CT_RAW" Source="FF14102C" />
@@ -200,8 +200,8 @@
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="ListItemSelected">
-        <Background Type="CT_RAW" Source="FF14102C" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF2C214F" />
+        <Foreground Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="LivePropertyExplorerResourceReference">
         <Background Type="CT_RAW" Source="FF14102C" />
@@ -527,7 +527,7 @@
         <Background Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="ListItemSelectedBorder">
-        <Background Type="CT_RAW" Source="FF46FE6D" />
+        <Background Type="CT_RAW" Source="FF2C214F" />
       </Color>
       <Color Name="ListItemTier1Border">
         <Background Type="CT_RAW" Source="FF424242" />
@@ -4509,7 +4509,7 @@
         <Background Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="SelectedText">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="DetailPane">
         <Background Type="CT_RAW" Source="FF2C2C2F" />
