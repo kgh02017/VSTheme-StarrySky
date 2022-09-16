@@ -118,7 +118,7 @@
         <Background Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="ListItemMouseOver">
-        <Background Type="CT_RAW" Source="FF2C214F" />
+        <Background Type="CT_RAW" Source="FF14102C" />
         <Foreground Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="ListItemMouseOverBorder">
@@ -200,7 +200,7 @@
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="ListItemSelected">
-        <Background Type="CT_RAW" Source="FF2C214F" />
+        <Background Type="CT_RAW" Source="FF14102C" />
         <Foreground Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="LivePropertyExplorerResourceReference">
@@ -298,19 +298,19 @@
         <Foreground Type="CT_RAW" Source="FFF6F1FF" />
       </Color>
       <Color Name="Menu">
-        <Background Type="CT_RAW" Source="FF1B1B1C" />
+        <Background Type="CT_RAW" Source="A006320E" />
         <Foreground Type="CT_RAW" Source="FFF6F1FF" />
       </Color>
       <Color Name="PropertyValueLocal">
         <Background Type="CT_RAW" Source="FFF6F1FF" />
       </Color>
       <Color Name="SplitBarTab">
-        <Background Type="CT_RAW" Source="FF333337" />
-        <Foreground Type="CT_RAW" Source="FFF6F1FF" />
+        <Background Type="CT_RAW" Source="FF2C214F" />
+        <Foreground Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="SplitBarTabSelected">
-        <Background Type="CT_RAW" Source="FF45425C" />
-        <Foreground Type="CT_RAW" Source="FFF6F1FF" />
+        <Background Type="CT_RAW" Source="FF392891" />
+        <Foreground Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="TabItem">
         <Background Type="CT_RAW" Source="FF252526" />
@@ -366,7 +366,7 @@
         <Background Type="CT_RAW" Source="FF14102C" />
       </Color>
       <Color Name="ArtboardBackground">
-        <Background Type="CT_RAW" Source="FF1C1C1C" />
+        <Background Type="CT_RAW" Source="FF14102C" />
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="ArtboardBackgroundAlternate">
@@ -374,7 +374,7 @@
         <Foreground Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
       <Color Name="ArtboardBackgroundDefault">
-        <Background Type="CT_RAW" Source="FF1C1C1C" />
+        <Background Type="CT_RAW" Source="FF14102C" />
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="ArtboardButton">
@@ -388,13 +388,13 @@
         <Background Type="CT_RAW" Source="FF6FD58D" />
       </Color>
       <Color Name="ArtboardSecondaryBackground">
-        <Background Type="CT_RAW" Source="FF1A1A1A" />
+        <Background Type="CT_RAW" Source="FF14102C" />
       </Color>
       <Color Name="ArtboardSecondaryBackgroundAlternate">
         <Background Type="CT_RAW" Source="FFF0F0F0" />
       </Color>
       <Color Name="ArtboardSecondaryBackgroundDefault">
-        <Background Type="CT_RAW" Source="FF1A1A1A" />
+        <Background Type="CT_RAW" Source="FF14102C" />
       </Color>
       <Color Name="ArtboardWindow">
         <Background Type="CT_RAW" Source="FF45425C" />
@@ -416,8 +416,8 @@
         <Background Type="CT_RAW" Source="FF252526" />
       </Color>
       <Color Name="ComboBox">
-        <Background Type="CT_RAW" Source="FF333337" />
-        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
+        <Background Type="CT_RAW" Source="FF06320E" />
+        <Foreground Type="CT_RAW" Source="FF11D431" />
       </Color>
       <Color Name="ComboBoxButtonBorder">
         <Background Type="CT_RAW" Source="FF333337" />
@@ -429,7 +429,7 @@
         <Background Type="CT_RAW" Source="FF45425C" />
       </Color>
       <Color Name="ComboBoxPopUp">
-        <Background Type="CT_RAW" Source="FF1B1B1C" />
+        <Background Type="CT_RAW" Source="FF06320E" />
       </Color>
       <Color Name="ComboBoxPopUpBorder">
         <Background Type="CT_RAW" Source="FF333337" />
