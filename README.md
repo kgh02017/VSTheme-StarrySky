@@ -1,6 +1,6 @@
-﻿# StarrySky theme
+﻿# StarrySky Theme
 
-StarrySky theme for Visual Studio 2022
+StarrySky Theme for Visual Studio 2022
 
 ## Screenshots
 
