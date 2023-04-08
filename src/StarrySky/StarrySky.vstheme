@@ -10070,8 +10070,8 @@
     </Category>
     <Category Name="WindowsTemplateStudio" GUID="{9c63f223-700a-4418-8a5a-cd450f05f593}">
       <Color Name="WindowPanel">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
-        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF2C214F" />
+        <Foreground Type="CT_RAW" Source="FF11D431" />
       </Color>
       <Color Name="HeaderText">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
@@ -10101,16 +10101,16 @@
         <Background Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
       <Color Name="CardTitleText">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF11D431" />
       </Color>
       <Color Name="CardDescriptionText">
-        <Background Type="CT_RAW" Source="FF6C6C6C" />
+        <Background Type="CT_RAW" Source="FF2AB6B3" />
       </Color>
       <Color Name="CardBorderDefault">
-        <Background Type="CT_RAW" Source="FFBFBFBF" />
+        <Background Type="CT_RAW" Source="FF727779" />
       </Color>
       <Color Name="CardBorderHover">
-        <Background Type="CT_RAW" Source="FF949494" />
+        <Background Type="CT_RAW" Source="FF727779" />
       </Color>
       <Color Name="CardFooterText">
         <Background Type="CT_RAW" Source="FF6C6C6C" />
@@ -10120,7 +10120,7 @@
         <Foreground Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
       <Color Name="WindowBorder">
-        <Background Type="CT_RAW" Source="FFCCCEDB" />
+        <Background Type="CT_RAW" Source="FF727779" />
       </Color>
       <Color Name="Hyperlink">
         <Background Type="CT_RAW" Source="FF0E70C0" />
@@ -10132,31 +10132,31 @@
         <Background Type="CT_RAW" Source="FFCCCEDB" />
       </Color>
       <Color Name="WizardFooter">
-        <Background Type="CT_RAW" Source="FFEFEFF2" />
+        <Background Type="CT_RAW" Source="FF14102C" />
       </Color>
       <Color Name="SectionDivider">
-        <Background Type="CT_RAW" Source="FFCCCEDB" />
+        <Background Type="CT_RAW" Source="FF727779" />
       </Color>
       <Color Name="HeaderTextSecondary">
-        <Background Type="CT_RAW" Source="FF828282" />
+        <Background Type="CT_RAW" Source="FF11D431" />
       </Color>
       <Color Name="WizardFooterText">
         <Background Type="CT_RAW" Source="FF828282" />
       </Color>
       <Color Name="CardBackgroundDefault">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF14102C" />
       </Color>
       <Color Name="CardBackgroundHover">
-        <Background Type="CT_RAW" Source="FFEFEFF2" />
+        <Background Type="CT_RAW" Source="FF14102C" />
       </Color>
       <Color Name="CardBackgroundSelected">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF14102C" />
       </Color>
       <Color Name="CardBackgroundDisabled">
         <Background Type="CT_RAW" Source="FFF5F5F5" />
       </Color>
       <Color Name="CardBorderSelected">
-        <Background Type="CT_RAW" Source="FF007ACC" />
+        <Background Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="CardBorderDisabled">
         <Background Type="CT_RAW" Source="FFCCCEDB" />
@@ -10165,7 +10165,7 @@
         <Background Type="CT_RAW" Source="FFE51400" />
       </Color>
       <Color Name="SavedTemplateBackgroundHover">
-        <Background Type="CT_RAW" Source="FFEFEFF2" />
+        <Background Type="CT_RAW" Source="FF14102C" />
       </Color>
       <Color Name="NewItemFileStatusNewFile">
         <Background Type="CT_RAW" Source="FF00CC6A" />
