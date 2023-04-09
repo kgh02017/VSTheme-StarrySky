@@ -1405,7 +1405,7 @@
       </Color>
       <Color Name="Page">
         <Background Type="CT_RAW" Source="FF2C214F" />
-        <Foreground Type="CT_RAW" Source="FFF6F1FF" />
+        <Foreground Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="Caption">
         <Background Type="CT_RAW" Source="FF14102C" />
@@ -1419,7 +1419,7 @@
         <Background Type="CT_RAW" Source="FFF6F1FF" />
       </Color>
       <Color Name="HeaderText">
-        <Background Type="CT_RAW" Source="FFF6F1FF" />
+        <Background Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="StatusBannerError">
         <Background Type="CT_RAW" Source="1ED53230" />
@@ -1588,7 +1588,7 @@
         <Foreground Type="CT_RAW" Source="FF2E7D32" />
       </Color>
       <Color Name="SupportText">
-        <Background Type="CT_RAW" Source="FF999999" />
+        <Background Type="CT_RAW" Source="FF2AB6B3" />
       </Color>
       <Color Name="TileViewBackground">
         <Background Type="CT_RAW" Source="00000000" />
