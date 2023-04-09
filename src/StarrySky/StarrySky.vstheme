@@ -5,10 +5,10 @@
         <Foreground Type="CT_RAW" Source="FF2C214F" />
       </Color>
       <Color Name="ContentSectionHeader">
-        <Foreground Type="CT_RAW" Source="FF2C214F" />
+        <Foreground Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="H1">
-        <Foreground Type="CT_RAW" Source="FF2C214F" />
+        <Foreground Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF14102C" />
@@ -34,14 +34,14 @@
         <Foreground Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="Body">
-        <Background Type="CT_RAW" Source="FF252526" />
+        <Background Type="CT_RAW" Source="FF2C214F" />
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="ContentSectionHeaderBorder">
         <Foreground Type="CT_RAW" Source="FF45425C" />
       </Color>
       <Color Name="NumberedListItemHover">
-        <Background Type="CT_RAW" Source="FF45425C" />
+        <Background Type="CT_RAW" Source="FF2C214F" />
       </Color>
     </Category>
     <Category Name="ApplicationInsights" GUID="{badebe03-e60e-41de-8b51-5a379a844217}">
@@ -3916,10 +3916,10 @@
         <Background Type="CT_RAW" Source="FF363639" />
       </Color>
       <Color Name="StartPageTabBackgroundBegin">
-        <Background Type="CT_RAW" Source="FF252526" />
+        <Background Type="CT_RAW" Source="FF2C214F" />
       </Color>
       <Color Name="StartPageTabBackgroundEnd">
-        <Background Type="CT_RAW" Source="FF252526" />
+        <Background Type="CT_RAW" Source="FF2C214F" />
       </Color>
       <Color Name="StartPageTextBody">
         <Background Type="CT_RAW" Source="FFF1F1F1" />
