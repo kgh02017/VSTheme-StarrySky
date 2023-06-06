@@ -6619,7 +6619,7 @@
       </Color>
       <Color Name="Selected Line Number">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF000000" />
+        <Foreground Type="CT_RAW" Source="FFBF52FF" />
       </Color>
       <Color Name="StickyScrollLineHighlightFormat">
         <Background Type="CT_INVALID" Source="00000000" />
