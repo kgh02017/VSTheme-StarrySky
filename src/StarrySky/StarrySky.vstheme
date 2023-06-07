@@ -5338,7 +5338,7 @@
         <Foreground Type="CT_RAW" Source="FF3BFF95" />
       </Color>
       <Color Name="brace matching">
-        <Background Type="CT_RAW" Source="FF1AFE49" />
+        <Background Type="CT_RAW" Source="FF48830E" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="OverviewMarginCaret">
