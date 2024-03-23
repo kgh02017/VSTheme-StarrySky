@@ -3433,7 +3433,7 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="GrayText">
-        <Background Type="CT_RAW" Source="FF999999" />
+        <Background Type="CT_RAW" Source="FF2AB6B3" />
       </Color>
       <Color Name="GridHeadingText">
         <Background Type="CT_RAW" Source="FFF1F1F1" />
@@ -10568,7 +10568,7 @@
         <Background Type="CT_RAW" Source="FF686868" />
       </Color>
       <Color Name="GreyPrimaryAlt">
-        <Background Type="CT_RAW" Source="FF515151" />
+        <Background Type="CT_RAW" Source="FF919191" />
       </Color>
       <Color Name="GreySecondary">
         <Background Type="CT_RAW" Source="CC686868" />
@@ -10736,7 +10736,7 @@
         <Background Type="CT_RAW" Source="FF0078D4" />
       </Color>
       <Color Name="BluePrimaryAlt">
-        <Background Type="CT_RAW" Source="FF005BA1" />
+        <Background Type="CT_RAW" Source="FF007FE0" />
       </Color>
       <Color Name="BlueSecondary">
         <Background Type="CT_RAW" Source="CC0078D4" />
