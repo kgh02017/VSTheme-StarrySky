@@ -1,0 +1,65 @@
+name: CI-Build
+
+on:
+  pull_request:
+    branches:
+      - "main"
+
+env:
+  BUILD_VERSION: ""
+
+jobs:
+  build:
+    name: ci-build
+    runs-on: windows-latest
+    steps:
+      # Checkout git repository
+      # https://github.com/actions/checkout
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # Setup msbuild
+      # https://github.com/microsoft/setup-msbuild
+      - name: Setup msbuild
+        uses: microsoft/setup-msbuild@v1.1
+
+      # Setup NuGet
+      # https://github.com/NuGet/setup-nuget
+      - name: Setup NuGet
+        uses: nuget/setup-nuget@v2
+
+      # Retrieve version number from vsixmanifest
+      - name: Retrieve version number from vsixmanifest
+        run: |
+          $manifest = [xml]::new()
+          $manifest.Load('./src/StarrySky/source.extension.vsixmanifest')
+          $version = $manifest.PackageManifest.Metadata.Identity.Version
+          Write-Output $version
+          Write-Output "BUILD_VERSION=$version" | Out-File -FilePath $Env:GITHUB_ENV -Encoding utf8 -Append
+
+      # Update VSIX Version Number
+      # https://github.com/cezarypiatek/VsixVersionAction
+      - name: Update version number
+        uses: cezarypiatek/VsixVersionAction@1.1
+        with:
+          version: "${{ env.BUILD_VERSION }}.${{ github.run_number }}"
+          vsix-manifest-file: './src/StarrySky/source.extension.vsixmanifest'
+        if: github.event_name == 'pull_request'
+
+      # Restore Apps
+      - name: Restore the app
+        run: |
+          msbuild /t:Restore /p:Configuration=Release
+
+      # Build Apps for release
+      - name: Build app for release
+        run: |
+          msbuild /p:Configuration=Release
+
+      # Upload artifacts
+      # https://github.com/actions/upload-artifact
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: "StarrySky-${{ env.BUILD_VERSION }}.${{ github.run_number }}"
+          path: ./src/StarrySky/bin/Release/StarrySky.pkgdef
