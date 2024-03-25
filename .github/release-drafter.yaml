@@ -1,9 +1,9 @@
 name-template: 'v$RESOLVED_VERSION 🌈'
 tag-template: 'v$RESOLVED_VERSION'
 categories:
-  - title: '🚀 Features'
+  - title: '🚀 Enhancement'
     labels:
-      - 'feature'
+      - 'enhancement'
   - title: '🐛 Bug Fixes'
     labels:
       - 'bug'
@@ -37,7 +37,7 @@ template: |
   $CHANGES
 
 autolabeler:
-  - label: 'feature'
+  - label: 'enhancement'
     branch:
       - '/^feature[/-].+/'
   - label: 'bug'
