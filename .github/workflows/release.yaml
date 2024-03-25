@@ -1,0 +1,61 @@
+name: Release
+
+on:
+  release:
+    types: [published]
+
+env:
+  BUILD_VERSION: ""
+
+jobs:
+  release:
+    name: release-build
+    runs-on: windows-latest
+    steps:
+      # Checkout git repository
+      # https://github.com/actions/checkout
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # Setup msbuild
+      # https://github.com/microsoft/setup-msbuild
+      - name: Setup msbuild
+        uses: microsoft/setup-msbuild@v1.1
+
+      # Setup NuGet
+      # https://github.com/NuGet/setup-nuget
+      - name: Setup NuGet
+        uses: nuget/setup-nuget@v2
+
+      # Retrieve version number from vsixmanifest
+      - name: Retrieve version number from vsixmanifest
+        run: |
+          $manifest = [xml]::new()
+          $manifest.Load('./src/StarrySky/source.extension.vsixmanifest')
+          $version = $manifest.PackageManifest.Metadata.Identity.Version
+          Write-Output $version
+          Write-Output "BUILD_VERSION=$version" | Out-File -FilePath $Env:GITHUB_ENV -Encoding utf8 -Append
+
+      # Restore Apps
+      - name: Restore the app
+        run: |
+          msbuild /t:Restore /p:Configuration=Release
+
+      # Build Apps for release
+      - name: Build app for release
+        run: |
+          msbuild /p:Configuration=Release
+
+      # Zip artifacts
+      - name: Zip artifacts
+        run: |
+          $artifact = "StarrySky-$($env:BUILD_VERSION)_bin.zip"
+          Compress-Archive ./src/StarrySky/bin/Release/StarrySky.pkgdef $artifact
+
+      # Upload release Assets
+      # https://github.com/AButler/upload-release-assets
+      - uses: AButler/upload-release-assets@v3.0
+        with:
+          files: "StarrySky-${{ env.BUILD_VERSION }}_bin.zip"
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          release-tag: "v${{ env.BUILD_VERSION }}"
