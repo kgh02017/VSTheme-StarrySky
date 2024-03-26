@@ -50,7 +50,7 @@ jobs:
       - name: Zip artifacts
         run: |
           $artifact = "StarrySky-$($env:BUILD_VERSION)_bin.zip"
-          Compress-Archive ./src/StarrySky/bin/Release/StarrySky.pkgdef $artifact
+          Compress-Archive ./src/StarrySky/bin/Release/StarrySky.vsix $artifact
 
       # Upload release Assets
       # https://github.com/AButler/upload-release-assets
