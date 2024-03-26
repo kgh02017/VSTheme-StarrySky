@@ -63,4 +63,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: "StarrySky-${{ env.BUILD_VERSION }}.${{ github.run_number }}"
-          path: ./src/StarrySky/bin/Release/StarrySky.pkgdef
+          path: ./src/StarrySky/bin/Release/StarrySky.vsix
