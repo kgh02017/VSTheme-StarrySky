@@ -2558,7 +2558,7 @@
         <Background Type="CT_RAW" Source="FF14102C" />
       </Color>
       <Color Name="FileTabProvisionalInactiveForeground">
-        <Background Type="CT_RAW" Source="FF14102C" />
+        <Background Type="CT_RAW" Source="FF857EA0" />
       </Color>
       <Color Name="FileTabProvisionalSelectedInactive">
         <Background Type="CT_RAW" Source="FF14102C" />
@@ -3385,10 +3385,10 @@
         <Background Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="FileTabProvisionalInactive">
-        <Background Type="CT_RAW" Source="FF2D2D30" />
+        <Background Type="CT_RAW" Source="FF2C214F" />
       </Color>
       <Color Name="FileTabProvisionalInactiveBorder">
-        <Background Type="CT_RAW" Source="FF2D2D30" />
+        <Background Type="CT_RAW" Source="FF2C214F" />
       </Color>
       <Color Name="FileTabProvisionalSelectedActiveBorder">
         <Background Type="CT_RAW" Source="FF68217A" />
