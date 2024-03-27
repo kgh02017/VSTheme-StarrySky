@@ -1573,7 +1573,7 @@
         <Background Type="CT_RAW" Source="FF656565" />
       </Color>
       <Color Name="PageBackground">
-        <Background Type="CT_RAW" Source="FF000000" />
+        <Background Type="CT_RAW" Source="FF14102C" />
       </Color>
       <Color Name="StatusBannerErrorBorder">
         <Foreground Type="CT_RAW" Source="FFD53230" />
@@ -2929,7 +2929,7 @@
         <Background Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="ClassDesignerCompartmentSeparator">
-        <Background Type="CT_RAW" Source="FFD2D2D2" />
+        <Background Type="CT_RAW" Source="FF605874" />
       </Color>
       <Color Name="ClassDesignerConnectionRouteBorder">
         <Background Type="CT_RAW" Source="FF999999" />
