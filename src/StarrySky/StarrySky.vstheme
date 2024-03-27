@@ -1966,7 +1966,7 @@
         <Background Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="ComboBoxItemMouseOverBorder">
-        <Background Type="CT_RAW" Source="FF1AFE49" />
+        <Background Type="CT_RAW" Source="FF06320E" />
       </Color>
       <Color Name="ComboBoxMouseOverBorder">
         <Background Type="CT_RAW" Source="FF1AFE49" />
@@ -2155,7 +2155,7 @@
         <Background Type="CT_RAW" Source="FF14102C" />
       </Color>
       <Color Name="DropDownMouseDownBorder">
-        <Background Type="CT_RAW" Source="FF14102C" />
+        <Background Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="EditorExpansionFill">
         <Background Type="CT_RAW" Source="FF14102C" />
@@ -2305,7 +2305,7 @@
         <Background Type="CT_RAW" Source="FFF6F1FF" />
       </Color>
       <Color Name="DropDownMouseDownText">
-        <Background Type="CT_RAW" Source="FFF6F1FF" />
+        <Background Type="CT_RAW" Source="FF11D431" />
       </Color>
       <Color Name="LightCaption">
         <Background Type="CT_RAW" Source="FFF6F1FF" />
@@ -3247,10 +3247,10 @@
         <Background Type="CT_RAW" Source="FF656565" />
       </Color>
       <Color Name="DropDownPopupBackgroundBegin">
-        <Background Type="CT_RAW" Source="A006320E" />
+        <Background Type="CT_RAW" Source="B006320E" />
       </Color>
       <Color Name="DropDownPopupBackgroundEnd">
-        <Background Type="CT_RAW" Source="A006320E" />
+        <Background Type="CT_RAW" Source="B006320E" />
       </Color>
       <Color Name="DropDownPopupBorder">
         <Background Type="CT_RAW" Source="FF333337" />
