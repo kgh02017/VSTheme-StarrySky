@@ -2702,10 +2702,10 @@
         <Background Type="CT_RAW" Source="80C5C5C5" />
       </Color>
       <Color Name="CommandBarMenuBackgroundGradientBegin">
-        <Background Type="CT_RAW" Source="A006320E" />
+        <Background Type="CT_RAW" Source="E006320E" />
       </Color>
       <Color Name="CommandBarMenuBackgroundGradientEnd">
-        <Background Type="CT_RAW" Source="A006320E" />
+        <Background Type="CT_RAW" Source="E006320E" />
       </Color>
       <Color Name="CommandBarMenuIconBackground">
         <Background Type="CT_RAW" Source="A006320E" />
