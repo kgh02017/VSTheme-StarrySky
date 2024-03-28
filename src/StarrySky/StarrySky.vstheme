@@ -1368,7 +1368,7 @@
         <Background Type="CT_RAW" Source="FF14102C" />
       </Color>
       <Color Name="ListItemBackgroundHover">
-        <Background Type="CT_RAW" Source="FF14102C" />
+        <Background Type="CT_RAW" Source="FF392891" />
       </Color>
       <Color Name="ListItemBorderHover">
         <Background Type="CT_RAW" Source="FF14102C" />
@@ -2296,7 +2296,7 @@
         <Background Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="BrandedUIBackground">
-        <Background Type="CT_RAW" Source="FF2C214F" />
+        <Background Type="CT_RAW" Source="FF14102C" />
       </Color>
       <Color Name="DropDownGlyph">
         <Background Type="CT_RAW" Source="FFF6F1FF" />
