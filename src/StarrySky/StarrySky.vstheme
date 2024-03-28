@@ -1543,7 +1543,7 @@
         <Background Type="CT_RAW" Source="00FFFFFF" />
       </Color>
       <Color Name="InnerTabSelectedText">
-        <Background Type="CT_RAW" Source="FFF1F1F1" />
+        <Background Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="InnerTabText">
         <Background Type="CT_RAW" Source="FFF1F1F1" />
@@ -4628,11 +4628,11 @@
       </Color>
       <Color Name="Default">
         <Background Type="CT_RAW" Source="FF14102C" />
-        <Foreground Type="CT_RAW" Source="FFF6F1FF" />
+        <Foreground Type="CT_RAW" Source="FF11D431" />
       </Color>
       <Color Name="MouseOver">
         <Background Type="CT_RAW" Source="FF14102C" />
-        <Foreground Type="CT_RAW" Source="FFF6F1FF" />
+        <Foreground Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="MouseOverGlyph">
         <Background Type="CT_RAW" Source="FFF6F1FF" />
