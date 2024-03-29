@@ -2063,7 +2063,7 @@
         <Background Type="CT_RAW" Source="FF2C214F" />
       </Color>
       <Color Name="FileTabActiveGroupBackground">
-        <Background Type="CT_RAW" Source="FF2C214F" />
+        <Background Type="CT_RAW" Source="FF271C4A" />
       </Color>
       <Color Name="ControlLinkTextHover">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -2401,7 +2401,7 @@
         <Background Type="CT_RAW" Source="FF721BF2" />
       </Color>
       <Color Name="FileTabBackground">
-        <Background Type="CT_RAW" Source="FF2C214F" />
+        <Background Type="CT_RAW" Source="FF271C4A" />
       </Color>
       <Color Name="FileTabButtonDownInactiveGlyph">
         <Background Type="CT_RAW" Source="FF2C214F" />
@@ -7879,7 +7879,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Indicator Margin">
-        <Background Type="CT_RAW" Source="FF14102C" />
+        <Background Type="CT_RAW" Source="FF372963" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Plain Text">
