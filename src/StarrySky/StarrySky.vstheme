@@ -1969,7 +1969,7 @@
         <Background Type="CT_RAW" Source="FF06320E" />
       </Color>
       <Color Name="ComboBoxMouseOverBorder">
-        <Background Type="CT_RAW" Source="FF14102C" />
+        <Background Type="CT_RAW" Source="FF45425C" />
       </Color>
       <Color Name="CommandBarSplitButtonSeparator">
         <Background Type="CT_RAW" Source="FF007F00" />
