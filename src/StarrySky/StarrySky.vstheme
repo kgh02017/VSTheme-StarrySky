@@ -1900,16 +1900,16 @@
         <Background Type="CT_RAW" Source="FF06320E" />
       </Color>
       <Color Name="ComboBoxMouseOverBackgroundBegin">
-        <Background Type="CT_RAW" Source="FF06320E" />
+        <Background Type="CT_RAW" Source="FF14102C" />
       </Color>
       <Color Name="ComboBoxMouseOverBackgroundEnd">
-        <Background Type="CT_RAW" Source="FF06320E" />
+        <Background Type="CT_RAW" Source="FF14102C" />
       </Color>
       <Color Name="ComboBoxMouseOverBackgroundMiddle1">
-        <Background Type="CT_RAW" Source="FF06320E" />
+        <Background Type="CT_RAW" Source="FF14102C" />
       </Color>
       <Color Name="ComboBoxMouseOverBackgroundMiddle2">
-        <Background Type="CT_RAW" Source="FF06320E" />
+        <Background Type="CT_RAW" Source="FF14102C" />
       </Color>
       <Color Name="ComboBoxButtonMouseDownBackground">
         <Background Type="CT_RAW" Source="FF06320E" />
@@ -1969,7 +1969,7 @@
         <Background Type="CT_RAW" Source="FF06320E" />
       </Color>
       <Color Name="ComboBoxMouseOverBorder">
-        <Background Type="CT_RAW" Source="FF1AFE49" />
+        <Background Type="CT_RAW" Source="FF14102C" />
       </Color>
       <Color Name="CommandBarSplitButtonSeparator">
         <Background Type="CT_RAW" Source="FF007F00" />
