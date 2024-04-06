@@ -1798,7 +1798,7 @@
         <Background Type="CT_RAW" Source="FF10823D" />
       </Color>
       <Color Name="QuickCustomizeButton">
-        <Background Type="CT_RAW" Source="FF10823D" />
+        <Background Type="CT_RAW" Source="FF14102C" />
       </Color>
       <Color Name="StartPageButtonPinDown">
         <Background Type="CT_RAW" Source="FF10823D" />
@@ -1819,7 +1819,7 @@
         <Background Type="CT_RAW" Source="FF10823D" />
       </Color>
       <Color Name="QuickCustomizeButtonTextHover">
-        <Background Type="CT_RAW" Source="FF00140B" />
+        <Background Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="StartPageButtonTextHover">
         <Background Type="CT_RAW" Source="FF00140B" />
@@ -3724,13 +3724,13 @@
         <Background Type="CT_RAW" Source="FF252526" />
       </Color>
       <Color Name="QuickCustomizeButtonBorder">
-        <Background Type="CT_RAW" Source="FF11D431" />
+        <Background Type="CT_RAW" Source="FF45425C" />
       </Color>
       <Color Name="QuickCustomizeButtonGlyph">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="QuickCustomizeButtonText">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF11D431" />
       </Color>
       <Color Name="RaftedWindowActiveIconBuilding">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
