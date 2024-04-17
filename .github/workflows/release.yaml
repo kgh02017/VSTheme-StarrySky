@@ -6,6 +6,7 @@ on:
 
 env:
   BUILD_VERSION: ""
+  TAG_VERSION: ${{ github.ref_name }}
 
 jobs:
   release:
@@ -35,6 +36,18 @@ jobs:
           $version = $manifest.PackageManifest.Metadata.Identity.Version
           Write-Output $version
           Write-Output "BUILD_VERSION=$version" | Out-File -FilePath $Env:GITHUB_ENV -Encoding utf8 -Append
+
+      # Version Check
+      - name: Version Check
+        run: |
+          $build_version = "v" + $($env:BUILD_VERSION)
+          Write-Output "Build Version = $build_version"
+          $tag_version = $($env:TAG_VERSION)
+          Write-Output "GitTag Version = $tag_version"
+          if (-Not($build_version -eq $tag_version)) {
+            Write-Output "Version Mismatch!"
+            exit 1
+          }
 
       # Restore Apps
       - name: Restore the app
