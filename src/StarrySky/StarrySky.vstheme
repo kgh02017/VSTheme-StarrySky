@@ -4624,24 +4624,24 @@
     <Category Name="Header" GUID="{4997f547-1379-456e-b985-2f413cdfa536}">
       <Color Name="MouseDown">
         <Background Type="CT_RAW" Source="FF182333" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Foreground Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="Default">
-        <Background Type="CT_RAW" Source="FF14102C" />
+        <Background Type="CT_RAW" Source="FF271C4A" />
         <Foreground Type="CT_RAW" Source="FF11D431" />
       </Color>
       <Color Name="MouseOver">
-        <Background Type="CT_RAW" Source="FF14102C" />
+        <Background Type="CT_RAW" Source="FF182333" />
         <Foreground Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="MouseOverGlyph">
-        <Background Type="CT_RAW" Source="FFF6F1FF" />
+        <Background Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="Glyph">
-        <Background Type="CT_RAW" Source="FFF1F1F1" />
+        <Background Type="CT_RAW" Source="FF11D431" />
       </Color>
       <Color Name="MouseDownGlyph">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="SeparatorLine">
         <Background Type="CT_RAW" Source="FF45425C" />
