@@ -4211,10 +4211,10 @@
         <Background Type="CT_RAW" Source="FF14102C" />
       </Color>
       <Color Name="SelectionBorder">
-        <Background Type="CT_RAW" Source="FF14102C" />
+        <Background Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="SelectionBrush">
-        <Background Type="CT_RAW" Source="FF14102C" />
+        <Background Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="GraphGroupBorder">
         <Background Type="CT_RAW" Source="FF818181" />
@@ -4241,7 +4241,7 @@
         <Background Type="CT_RAW" Source="FF818181" />
       </Color>
       <Color Name="DiagramPaperFill">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF14102C" />
       </Color>
       <Color Name="DiagramPaperBorder">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
@@ -4262,10 +4262,10 @@
         <Background Type="CT_RAW" Source="FF818181" />
       </Color>
       <Color Name="GraphGroupContentColor">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF14102C" />
       </Color>
       <Color Name="GraphBackgroundColor">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF14102C" />
       </Color>
       <Color Name="GraphTextColor">
         <Background Type="CT_RAW" Source="FFDBF1F2" />
