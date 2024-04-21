@@ -2749,7 +2749,7 @@
         <Background Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="CommandBarMenuSeparator">
-        <Background Type="CT_RAW" Source="FFBBBBBB" />
+        <Background Type="CT_RAW" Source="FF47445D" />
       </Color>
       <Color Name="CommandBarHover">
         <Background Type="CT_RAW" Source="FF45425C" />
