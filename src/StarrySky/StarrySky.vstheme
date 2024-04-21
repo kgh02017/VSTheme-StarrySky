@@ -7038,7 +7038,7 @@
       </Color>
       <Color Name="StartPageListItemPressed">
         <Background Type="CT_RAW" Source="FF14102C" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Foreground Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="StartPageNotificationDotBorder">
         <Foreground Type="CT_RAW" Source="FF14102C" />
