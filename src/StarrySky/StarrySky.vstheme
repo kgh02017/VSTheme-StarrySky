@@ -2734,7 +2734,7 @@
         <Background Type="CT_RAW" Source="FF14102C" />
       </Color>
       <Color Name="CommandBarHoverOverSelectedIcon">
-        <Background Type="CT_RAW" Source="80392891" />
+        <Background Type="CT_RAW" Source="801AFE49" />
       </Color>
       <Color Name="CommandBarMenuMouseDownGlyph">
         <Background Type="CT_RAW" Source="FF1AFE49" />
@@ -8566,7 +8566,7 @@
         <Background Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="ListItemBorderHover">
-        <Background Type="CT_RAW" Source="FF1AFE49" />
+        <Background Type="CT_RAW" Source="FF45425C" />
       </Color>
       <Color Name="ListItemBackgroundHover">
         <Background Type="CT_RAW" Source="FF14102C" />
