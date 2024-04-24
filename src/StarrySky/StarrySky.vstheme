@@ -1024,8 +1024,8 @@
         <Foreground Type="CT_RAW" Source="FF11D431" />
       </Color>
       <Color Name="ButtonHover">
-        <Background Type="CT_RAW" Source="FF1AFE49" />
-        <Foreground Type="CT_RAW" Source="FF00140B" />
+        <Background Type="CT_RAW" Source="FF333333" />
+        <Foreground Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="ButtonBorderHover">
         <Background Type="CT_RAW" Source="FF1AFE49" />
@@ -2734,7 +2734,7 @@
         <Background Type="CT_RAW" Source="FF14102C" />
       </Color>
       <Color Name="CommandBarHoverOverSelectedIcon">
-        <Background Type="CT_RAW" Source="80392891" />
+        <Background Type="CT_RAW" Source="FF333333" />
       </Color>
       <Color Name="CommandBarMenuMouseDownGlyph">
         <Background Type="CT_RAW" Source="FF1AFE49" />
@@ -8575,7 +8575,7 @@
         <Background Type="CT_RAW" Source="E006320E" />
       </Color>
       <Color Name="WindowPanelText">
-        <Foreground Type="CT_RAW" Source="FF1AFE49" />
+        <Foreground Type="CT_RAW" Source="FF11D431" />
       </Color>
       <Color Name="WindowPanelBorder">
         <Background Type="CT_RAW" Source="FF14102C" />
