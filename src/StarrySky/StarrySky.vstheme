@@ -1166,7 +1166,7 @@
         <Background Type="CT_RAW" Source="FF1AFE49" />
       </Color>
       <Color Name="ComboBoxListItemBackgroundHover">
-        <Background Type="CT_RAW" Source="FF14102C" />
+        <Background Type="CT_RAW" Source="8014102C" />
       </Color>
       <Color Name="ComboBoxListItemBorderHover">
         <Background Type="CT_RAW" Source="FF14102C" />
